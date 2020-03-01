@@ -1,0 +1,11 @@
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.exe
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.deps.json
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.runtimeconfig.json
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.runtimeconfig.dev.json
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.dll
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.pdb
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-HashCode-QualifyingRound.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-HashCode-QualifyingRound.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-HashCode-QualifyingRound.AssemblyInfo.cs
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.dll
+C:\Users\Huy\source\repos\HashCode-HashCode-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.pdb

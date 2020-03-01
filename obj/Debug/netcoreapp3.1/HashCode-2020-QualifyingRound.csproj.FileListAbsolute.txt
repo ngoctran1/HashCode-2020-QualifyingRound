@@ -1,0 +1,17 @@
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\a_example.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\b_read_on.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\c_incunabula.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\d_tough_choices.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\e_so_many_books.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\Data\f_libraries_of_the_world.txt
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.exe
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.deps.json
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.runtimeconfig.json
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.runtimeconfig.dev.json
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.dll
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\bin\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.pdb
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.AssemblyInfo.cs
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.dll
+C:\Users\Huy\source\repos\HashCode-2020-QualifyingRound\obj\Debug\netcoreapp3.1\HashCode-2020-QualifyingRound.pdb

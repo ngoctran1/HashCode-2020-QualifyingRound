@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashCode-2020-QualifyingRound/1.0.0": {
+        "runtime": {
+          "HashCode-2020-QualifyingRound.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashCode-2020-QualifyingRound/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
